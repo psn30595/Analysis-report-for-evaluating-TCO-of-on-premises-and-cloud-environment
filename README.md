@@ -1,0 +1,1 @@
+# Analysis-report-for-evaluating-TCO-of-on-premises-and-cloud-environment
